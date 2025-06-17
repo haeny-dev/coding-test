@@ -1,4 +1,4 @@
-package com.leetcode.easy.problem_151_ReverseWordsInAString
+package com.leetcode.medium.problem_151_ReverseWordsInAString
 
 class Solution {
     fun reverseWords(s: String): String {
